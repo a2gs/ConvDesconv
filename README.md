@@ -2,6 +2,7 @@
 Convert a binary file to HEX ASCII values and desconvert to binary again.
 
 Usage:
+
 ./conv BINARY_File.bin > out
 
 Now, out is a 'ASCII' (printable) file.
