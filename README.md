@@ -1,5 +1,5 @@
 # ConvDesconv
-Convert a binary file to HEX ASCII values and desconvert to binary again
+Convert a binary file to HEX ASCII values and desconvert to binary again.
 
 Usage:
 ./conv BINARY_File.bin > out
