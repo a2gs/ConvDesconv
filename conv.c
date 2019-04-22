@@ -3,7 +3,7 @@
  *
  * Dump a file to HEX ASCII characteres to stdout
  *
- * Public Domain
+ * MIT License
  *
  */
 
