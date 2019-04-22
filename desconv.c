@@ -3,7 +3,7 @@
  *
  * Read a dumped file (generated from conv) from stdin and convert to binary values.
  *
- * Public Domain
+ * MIT License
  *
  */
 
